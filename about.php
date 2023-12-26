@@ -40,15 +40,16 @@
             <div class="container">
                 <div class="d-flex justify-content-between topbar">
                     <div class="top-info">
-                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>23 Ranking Street, New York</small>
-                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-envelope me-2 text-secondary"></i></a>Email@Example.com</small>
+                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>Academy,Olomi, Lagos Ibadan Express Way</small>
+                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-envelope me-2 text-secondary"></i></a>abdulmalikabdulwakeel7@gmail.com</small>
                     </div>
                     <div id="note" class="text-secondary d-none d-xl-flex"><small>Note : We help you to Grow your Business</small></div>
                     <div class="top-link">
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100083562679032" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
+                        <a href="https://x.com/Abdulmalik_Gbol?t=CeE8VrllcMZE5a-krMcMcw&s=09" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
+                        <a href="https://www.instagram.com/developermalik?igsh=OGQ5ZDc2ODk2ZA==" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
+                        <a href="
+                        https://www.linkedin.com/in/abdulmalik-abdulwakeel-6a921b253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
                     </div>
                 </div>
             </div>
@@ -67,20 +68,20 @@
                     </button>
                     <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                         <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
-                            <a href="about.html" class="nav-item nav-link active">About</a>
-                            <a href="service.html" class="nav-item nav-link">Services</a>
-                            <a href="project.html" class="nav-item nav-link">Projects</a>
-                            <div class="nav-item dropdown">
+                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="about.php" class="nav-item nav-link active">About</a>
+                            <a href="service.php" class="nav-item nav-link">Services</a>
+                            <a href="project.php" class="nav-item nav-link">Projects</a>
+                            <!-- <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                                <div class="dropdown-menu rounded">
-                                    <a href="blog.html" class="dropdown-item">Our Blog</a>
-                                    <a href="team.html" class="dropdown-item">Our Team</a>
-                                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                    <a href="404.html" class="dropdown-item">404 Page</a>
-                                </div>
-                            </div>
-                            <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                < <div class="dropdown-menu rounded">
+                                    <a href="blog.php" class="dropdown-item">Our Blog</a>
+                                    <a href="team.php" class="dropdown-item">Our Team</a>
+                                    <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                                   
+                                </div> 
+                            </div> -->
+                            <a href="contact.php" class="nav-item nav-link">Contact</a>
                         </div>
                     </div>
                     <div class="d-none d-xl-flex flex-shirink-0">
@@ -94,7 +95,7 @@
                         </div>
                         <div class="d-flex flex-column pe-4 border-end">
                             <span class="text-white-50">Have any questions?</span>
-                            <span class="text-secondary">Call: + 0123 456 7890</span>
+                            <span class="text-secondary">Call: + 234 9134 309859</span>
                         </div>
                         <div class="d-flex align-items-center justify-content-center ms-4 ">
                             <a href="#"><i class="bi bi-search text-white fa-2x"></i> </a>
@@ -112,8 +113,8 @@
                 <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
                 <nav aria-label="breadcrumb animated slideInDown">
                     <ol class="breadcrumb justify-content-center mb-0">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                       
                         <li class="breadcrumb-item" aria-current="page">About</li>
                     </ol>
                 </nav>
@@ -277,7 +278,7 @@
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
                         <a href="index.html">
-                            <h1 class="text-white fw-bold d-block">High<span class="text-secondary">Tech</span> </h1>
+                            <h1 class="text-white fw-bold d-block">Haca<span class="text-secondary">Tron</span> </h1>
                         </a>
                         <p class="mt-4 text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta facere delectus qui placeat inventore consectetur repellendus optio debitis.</p>
                         <div class="d-flex hightech-link">
@@ -323,7 +324,7 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        <span class="text-light">Designed By<a href="https://htmlcodex.com" class="text-secondary">HTML Codex</a> Distributed By <a href="https://themewagon.com">ThemeWagon</a></span>
+                        <span class="text-light">Designed By<a href="https://hacatron.onrender.com/" class="text-secondary">HACATRON</a> Distributed By <a href="https://hacatron.onrender.com/">Hacatron</a></span>
                     </div>
                 </div>
             </div>

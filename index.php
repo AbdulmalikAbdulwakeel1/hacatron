@@ -1,109 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="utf-8">
-        <title>Hacatron - IT Solutions Website </title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
+<head>
+    <meta charset="utf-8">
+    <title>Hacatron - IT Solutions </title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
 
-        <!-- Google Web Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Saira:wght@500;600;700&display=swap" rel="stylesheet"> 
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Saira:wght@500;600;700&display=swap" rel="stylesheet"> 
 
-        <!-- Icon Font Stylesheet -->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
-        <!-- Libraries Stylesheet -->
-        <link href="lib/animate/animate.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
-        <!-- Customized Bootstrap Stylesheet -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-        <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
-    </head>
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
 
-    <body>
-        <!-- Spinner Start -->
-        <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-            <div class="spinner-grow text-primary" role="status"></div>
-        </div>
-        <!-- Spinner End -->
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div>
+    <!-- Spinner End -->
 
-        <!-- Topbar Start -->
-        <div class="container-fluid bg-dark py-2 d-none d-md-flex">
-            <div class="container">
-                <div class="d-flex justify-content-between topbar">
-                    <div class="top-info">
-                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>23 Ranking Street, New York</small>
-                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-envelope me-2 text-secondary"></i></a>Email@Example.com</small>
-                    </div>
-                    <div id="note" class="text-secondary d-none d-xl-flex"><small>Note : We help you to Grow your Business</small></div>
-                    <div class="top-link">
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
-                        <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
-                    </div>
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark py-2 d-none d-md-flex">
+        <div class="container">
+            <div class="d-flex justify-content-between topbar">
+                <div class="top-info">
+                    <small class="me-3 text-white-50"><a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>Academy,Olomi, Lagos Ibadan Express Way</small>
+                    <small class="me-3 text-white-50"><a href="#"><i class="fas fa-envelope me-2 text-secondary"></i></a>abdulmalikabdulwakeel7@gmail.com</small>
+                </div>
+                <div id="note" class="text-secondary d-none d-xl-flex"><small>Note : We help you to Grow your Business</small></div>
+                <div class="top-link">
+                    <a href="https://www.facebook.com/profile.php?id=100083562679032" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
+                    <a href="https://x.com/Abdulmalik_Gbol?t=CeE8VrllcMZE5a-krMcMcw&s=09" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
+                    <a href="https://www.instagram.com/developermalik?igsh=OGQ5ZDc2ODk2ZA==" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
+                    <a href="
+                    https://www.linkedin.com/in/abdulmalik-abdulwakeel-6a921b253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
                 </div>
             </div>
         </div>
-        <!-- Topbar End -->
+    </div>
+    <!-- Topbar End -->
 
-        <!-- Navbar Start -->
-        <div class="container-fluid bg-primary">
-            <div class="container">
-                <nav class="navbar navbar-dark navbar-expand-lg py-0">
-                    <a href="index.html" class="navbar-brand">
-                        <h1 class="text-white fw-bold d-block">Haca<span class="text-secondary">Tron</span> </h1>
-                    </a>
-                    <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
-                        <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                            <a href="index.html" class="nav-item nav-link active text-secondary">Home</a>
-                            <a href="about.html" class="nav-item nav-link">About</a>
-                            <a href="service.html" class="nav-item nav-link">Services</a>
-                            <a href="project.html" class="nav-item nav-link">Projects</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                                <div class="dropdown-menu rounded">
-                                    <a href="blog.html" class="dropdown-item">Our Blog</a>
-                                    <a href="team.html" class="dropdown-item">Our Team</a>
-                                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                    <a href="404.html" class="dropdown-item">404 Page</a>
-                                </div>
+    <!-- Navbar Start -->
+    <div class="container-fluid bg-primary">
+        <div class="container">
+            <nav class="navbar navbar-dark navbar-expand-lg py-0">
+                <a href="index.html" class="navbar-brand">
+                    <h1 class="text-white fw-bold d-block">Haca<span class="text-secondary">Tron</span> </h1>
+                </a>
+                <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto mx-xl-auto p-0">
+                        <a href="index.php" class="nav-item nav-link">Home</a>
+                        <a href="about.php" class="nav-item nav-link active">About</a>
+                        <a href="service.php" class="nav-item nav-link">Services</a>
+                        <a href="project.php" class="nav-item nav-link">Projects</a>
+                        <!-- <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                            < <div class="dropdown-menu rounded">
+                                <a href="blog.php" class="dropdown-item">Our Blog</a>
+                                <a href="team.php" class="dropdown-item">Our Team</a>
+                                <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                               
+                            </div> 
+                        </div> -->
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    </div>
+                </div>
+                <div class="d-none d-xl-flex flex-shirink-0">
+                    <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
+                        <a href="" class="position-relative animated tada infinite">
+                            <i class="fa fa-phone-alt text-white fa-2x"></i>
+                            <div class="position-absolute" style="top: -7px; left: 20px;">
+                                <span><i class="fa fa-comment-dots text-secondary"></i></span>
                             </div>
-                            <a href="contact.html" class="nav-item nav-link">Contact</a>
-                        </div>
+                        </a>
                     </div>
-                    <div class="d-none d-xl-flex flex-shirink-0">
-                        <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
-                            <a href="" class="position-relative animated tada infinite">
-                                <i class="fa fa-phone-alt text-white fa-2x"></i>
-                                <div class="position-absolute" style="top: -7px; left: 20px;">
-                                    <span><i class="fa fa-comment-dots text-secondary"></i></span>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="d-flex flex-column pe-4 border-end">
-                            <span class="text-white-50">Have any questions?</span>
-                            <span class="text-secondary">Call: + 0123 456 7890</span>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-center ms-4 ">
-                            <a href="#"><i class="bi bi-search text-white fa-2x"></i> </a>
-                        </div>
+                    <div class="d-flex flex-column pe-4 border-end">
+                        <span class="text-white-50">Have any questions?</span>
+                        <span class="text-secondary">Call: + 234 9134 309859</span>
                     </div>
-                </nav>
-            </div>
+                    <div class="d-flex align-items-center justify-content-center ms-4 ">
+                        <a href="#"><i class="bi bi-search text-white fa-2x"></i> </a>
+                    </div>
+                </div>
+            </nav>
         </div>
-        <!-- Navbar End -->
+    </div>
+    <!-- Navbar End -->
 
         <!-- Carousel Start -->
         <div class="container-fluid px-0">
@@ -812,7 +813,7 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        <span class="text-light">Designed By<a href="https://htmlcodex.com" class="text-secondary">HTML Codex</a> Distributed By <a href="https://themewagon.com">ThemeWagon</a></span>
+                           <span class="text-light">Designed By<a href="https://hacatron.onrender.com/" class="text-secondary">HACATRON</a> Distributed By <a href="https://hacatron.onrender.com/">Hacatron</a></span>
                     </div>
                 </div>
             </div>
