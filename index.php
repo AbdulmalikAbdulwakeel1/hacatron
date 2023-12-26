@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Hacatron - IT Solutions </title>
+    <title>Hacatron  - IT Solutions </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -808,6 +808,7 @@
                 </div>
                 <hr class="text-light mt-5 mb-4">
                 <div class="row">
+
                     <div class="col-md-6 text-center text-md-start">
                         <span class="text-light"><a href="#" class="text-secondary"><i class="fas fa-copyright text-secondary me-2"></i>Your Site Name</a>, All right reserved.</span>
                     </div>
