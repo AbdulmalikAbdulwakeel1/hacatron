@@ -126,6 +126,7 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="carousel-item">
                         <img src="img/carousel-2.jpg" class="img-fluid" alt="Second slide">
                         <div class="carousel-caption">
