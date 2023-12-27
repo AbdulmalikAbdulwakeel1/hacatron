@@ -60,7 +60,7 @@
         <div class="container-fluid bg-primary">
             <div class="container">
                 <nav class="navbar navbar-dark navbar-expand-lg py-0">
-                    <a href="index.html" class="navbar-brand">
+                    <a href="index.php" class="navbar-brand">
                         <h1 class="text-white fw-bold d-block">Haca<span class="text-secondary">Tron</span> </h1>
                     </a>
                     <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -277,7 +277,7 @@
             <div class="container pt-5 pb-4">
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
-                        <a href="index.html">
+                        <a href="index.php">
                             <h1 class="text-white fw-bold d-block">Haca<span class="text-secondary">Tron</span> </h1>
                         </a>
                         <p class="mt-4 text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta facere delectus qui placeat inventore consectetur repellendus optio debitis.</p>
